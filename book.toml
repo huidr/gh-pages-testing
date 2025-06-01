@@ -1,0 +1,5 @@
+[book]
+authors = ["Ronald Huidrom"]
+language = "en"
+src = "src"
+title = "Just a Book"
